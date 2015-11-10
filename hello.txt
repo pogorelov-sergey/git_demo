@@ -1,2 +1,2 @@
 Hello world!!!
-It' s python!
+It' s java_script!
